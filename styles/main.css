@@ -1,0 +1,12 @@
+:root {
+  font-family: "Montserrat", sans-serif;
+}
+
+#awesome {
+  /* background-image: url(https://images.pexels.com/photos/6985003/pexels-photo-6985003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2); */
+  background-image: url(https://images.pexels.com/photos/6985195/pexels-photo-6985195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  background-size: 150vw 150vh;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
